@@ -12,10 +12,15 @@ An input model for new samples is roughly sketched up with both the code and the
 
 ## Future work/additions
 >add component for including detection limits
+
 >add postprocessing stoichiometry
+
 >create seperate notebook for submitting new EMPA data and receiving classification using same excel document
+
 >add new minerals
+
 >add new compositions of current minerals
+
 >explore if trends seen in other analysis (PGE, whole rock, ICPMS) can be identified by a ML algorithm to help direct future work on samples
 
 
